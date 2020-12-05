@@ -1,5 +1,5 @@
-start = int(input("Г‚ГўГҐГ¤ГЁГІГҐ Г­Г Г·Г Г«Г® ГЁГ­ГІГҐГ°ГўГ Г«Г : "))
-end = int(input("Г‚ГўГҐГ¤ГЁГІГҐ ГЄГ®Г­ГҐГ¶ ГЁГ­ГІГҐГ°ГўГ Г«Г : "))
+start = int(input("Введите начало интервала: "))
+end = int(input("Введите конец интервала: "))
 for i in range(start-1,end+1):
             delitel=2
             schet=0            

@@ -1,0 +1,2 @@
+def fanc(car='', model='', color='', price='', prod_year='', mileage=''):
+    return f'Автомобиль марки: {car}, модели: {model}, цвета: {color}, года выпуска {prod_year}, с пробегом: {mileage}, стоимостью: {price}'
